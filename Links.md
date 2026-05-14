@@ -1,6 +1,12 @@
 ## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
 
+
+### 📅 2026-05-14 17:36 IR
+- 🎬 [معرفی_و_پیش_نیاز__CEH_جلسه_ی_اول_دوره_ی.mp4](https://github.com/radi2010/sandbox/raw/main/dl/%D9%85%D8%B9%D8%B1%D9%81%DB%8C_%D9%88_%D9%BE%DB%8C%D8%B4_%D9%86%DB%8C%D8%A7%D8%B2__CEH_%D8%AC%D9%84%D8%B3%D9%87_%DB%8C_%D8%A7%D9%88%D9%84_%D8%AF%D9%88%D8%B1%D9%87_%DB%8C.mp4) `31.9MB`
+
+---
+
 ### 📅 2026-05-14 13:52 IR
 
 - 📱 [PsiphonPro_v464.zip](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) `25MB`
